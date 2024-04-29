@@ -29,25 +29,3 @@
 .margen_der2{
     padding-right: 10px;
 }
-
-.celda1{
-    padding-right: 80px;
-    background-color:red;
-    text-align: center;
-}
-
-.celda2{
-
-    height: 40px;
-    background-color:rgb(47, 47, 236);
-}
-
-.celda5{
-    padding-right: 80px;
-    height: 40px;
-    background-color:blue;
-}
-
-.centrado{
-    text-align: center;
-}
