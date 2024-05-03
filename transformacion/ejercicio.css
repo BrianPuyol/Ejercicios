@@ -6,14 +6,13 @@
     flex-direction: column;
     justify-content: center;
     align-items: center; /*No entiendo por qué hay margen si no lo agregué (sin contar el padding)*/
-    padding: 0px 10px 30px 10px;
+    padding: 20px 10px 30px 10px;
 
 }
 
 .caja img{
     width: 200px;
     height: 300px;
-    margin-top: -25px;
     background-color: red;
 }
 
