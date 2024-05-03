@@ -1,17 +1,27 @@
 .caja{
-    width: 500px;
-    height: 450px;
-    border: 2px solid black; /*me funcionó con "solid"*/
+    width: 250px;
+    height: 425px;
+    background-color: orange;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /*No entiendo por qué hay margen si no lo agregué (sin contar el padding)*/
+    padding: 0px 10px 30px 10px;
+
 }
 
-.poster{
+.caja img{
+    width: 200px;
+    height: 300px;
+    margin-top: -25px;
     background-color: red;
-    width: 150px;
-    height: 150px;
-    color: white;
-    font-size: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+}
+
+.juego01{
+    font-size: 30px;
+}
+
+.los_cataros{
+    font-size: 15px;
 }
     
