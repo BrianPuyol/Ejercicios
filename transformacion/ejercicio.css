@@ -1,0 +1,17 @@
+.caja{
+    width: 500px;
+    height: 450px;
+    border: 2px solid black; /*me funcionó con "solid"*/
+}
+
+.poster{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    

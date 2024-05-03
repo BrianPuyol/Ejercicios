@@ -1,0 +1,41 @@
+.contenedor{
+    width: 900px;
+    height: 150px;
+    display: inline-flex; /*permite modificar*/
+    justify-content: space-between;
+    border: 2px solid black; /*me funcionó con "solid"*/
+}
+
+.cuadrado1{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadrado2{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.cuadrado3{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
